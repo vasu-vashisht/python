@@ -1,0 +1,2 @@
+# python
+MY python notes
